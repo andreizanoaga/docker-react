@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Andrei Zanoaga the boss
+          Learn React
         </a>
       </header>
     </div>
